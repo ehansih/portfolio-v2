@@ -1,3 +1,15 @@
+<div align="center">
+
+# 💜 Portfolio v2
+
+Purple MoncyDev-style portfolio — saharsh1-projects.vercel.app.
+
+![React](https://img.shields.io/badge/React-blue?logo=react) ![Vercel](https://img.shields.io/badge/Vercel-deployed-black?logo=vercel) ![Last Commit](https://img.shields.io/github/last-commit/ehansih/portfolio-v2)
+
+</div>
+
+---
+
 # Portfolio V2
 
 Second portfolio site of **Harsh Vardhan Singh Chauhan** — Telecom Security specialist, 5G Architect, and Product Strategist with 16+ years of experience.
